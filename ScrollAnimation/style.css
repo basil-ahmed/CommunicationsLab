@@ -1,0 +1,45 @@
+* {
+box-sizing: border-box;
+background-color: rgb(39, 47, 94);
+color: #ccc;
+}
+
+.item {
+width: 200px;
+height: 200px;
+margin: 50px auto;
+padding-top: 75px;
+background: #ccc;
+text-align: center;
+color: #FFF;
+font-size: 3em;
+}
+
+.heading {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    padding-top: 100px;
+}
+
+.running {
+    margin: 100px auto;
+    width: 500px;
+    height: 500px;
+    padding-top: 300px;
+}
+
+.image {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    position:relative;
+    max-width: 400px;
+}
+
+.stealing {
+    margin: 100px auto;
+    width: 500px;
+    height: 500px;
+    padding-bottom: 200px;
+}
