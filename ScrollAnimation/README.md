@@ -1,1 +1,1 @@
-[Link to Website](basil-ahmed.github.io/CommunicationsLab/ScrollAnimation/)
+[Link to Website](https://basil-ahmed.github.io/CommunicationsLab/ScrollAnimation/)
