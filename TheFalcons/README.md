@@ -3,7 +3,7 @@
 ## Communications Lab
 
 ### Comic Webpage
-### [The Falcons](https://sripranav9.github.io/CommunicationsLab/)
+### [The Falcons](https://basil-ahmed.github.io/CommunicationsLab/TheFalcons/)
 
 >Group: Basil, Liza, Mohid, Pranav
 
