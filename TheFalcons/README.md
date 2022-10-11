@@ -1,7 +1,9 @@
-# Communications Lab
+# New York University Abu Dhabi
 
-## Comic Webpage
-## [The Falcons](https://sripranav9.github.io/CommunicationsLab/)
+## Communications Lab
+
+### Comic Webpage
+### [The Falcons](https://sripranav9.github.io/CommunicationsLab/)
 
 >Group: Basil, Liza, Mohid, Pranav
 
