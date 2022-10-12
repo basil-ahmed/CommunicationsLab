@@ -15,11 +15,19 @@ The website hosts a short comic titled 'The Falcons'. The Falcons (inspired from
   - **City Knowledge:** Lack of knowledge with regards to exploring the city
   - **Athletics:** Exploring the machines in the gym
 
-Although the characters do not exatly provide solutions to those problems, each pane is a combination of stress relieving comments that are curated to engage the reader and actually throw a light on these problems with a funny lens to remove the negative thoughts about the same. We aim to achieve a state where the reader is fully engrossed in the setting, is able to relate to some of the problems, and can find some common connections. Some of the comic principles per McCloud that we incorporated in this comic are as follows
+Although the characters do not exatly provide solutions to those problems, each pane is a combination of stress relieving comments that are curated to engage the reader and actually throw a light on these problems with a funny lens to remove the negative thoughts about the same. We aim to achieve a state where the reader is fully engrossed in the setting, is able to relate to some of the problems, and can find some common connections. Some of the comic principles per McCloud that we incorporated in this comic are as follows:
 
-Coding Languges: HTML, CSS, JavaScript
+**Use of color:** During our creative thinking, we were thinking in how we could take some of McCloud's advice and integrate them into our comic. One of the first points we thought about was the use of color. We had decided to go for a black and white background reminiscent of the old style of comics but then in order to make our main characters pop, we decided to add them in with color. This would help in serving as a guide to what should be the main attention to the reader.
 
-Software: Adobe Illustrator, Adobe Photoshop, picsart.com
+**Ablilty to resonate:** Another point we thought of is the type of emotion we wanted our readers to feel. With the stories being something very local and common, we wanted our readers to feel a sense of relatibily while reading our stories in order for them to be more invested into the panel.
+
+Some tools we used to depict this are as follows:
+
+**Coding Languges:** HTML, CSS, JavaScript
+
+**Software:** Adobe Illustrator, Adobe Photoshop, picsart.com
+
+We have used 6 panels as per the assignment description (4 panels for 4 characters and 2 panels for 5th character).
 
 
 ### Process
