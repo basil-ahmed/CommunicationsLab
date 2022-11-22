@@ -7,18 +7,18 @@ const vimeoEmbed = document.querySelector("iframe");
 
 const data = [
     [
-        "Catchy title!",
-        "Some cool description",
+        "A Man Died Falling!",
+        "There has been another report that somebody fell from the in front of the Arts Center",
         "https://player.vimeo.com/video/773403299?h=17278abddc&badge=0&autopause=0&player_id=0&app_id=58479/embed",
     ],
     [
-        "Catchy title!",
-        "Some cool description",
+        "Wild Animal on the Loose!",
+        "Oh my God! There is a wild animal on the loose! All the residents at NYU Abu Dhabi",
         "https://player.vimeo.com/video/773403798?h=a643d43a7e&badge=0&autopause=0&player_id=0&app_id=58479/embed",
     ],
     [
-        "Catchy title!",
-        "Some cool description",
+        "Fire in D2!",
+        "There has been a report that there is a huge fire in D2",
         "https://player.vimeo.com/video/773405792?h=820afeb133&badge=0&autopause=0&player_id=0&app_id=58479/embed",
     ],
 ];
