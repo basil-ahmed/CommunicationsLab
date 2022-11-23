@@ -1,7 +1,7 @@
 # New York University Abu Dhabi
 ## Communications Lab | NYUAD News
 
-## [NYUAD News](https://vsharkovski.github.io/commlab-video/)
+## [NYUAD News](https://basil-ahmed.github.io/CommunicationsLab/NYUADNews/)
 
 >Group: Vladimir, Ramsha, Basil & Pranav
 ### Description
