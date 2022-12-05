@@ -2,7 +2,7 @@
 ## Communications Lab
 ### 30MFF Webpage
 
-[Link to Website](basil-ahmed.github.io/CommunicationsLab/30MFFWebpage/)
+[Link to Website](https://basil-ahmed.github.io/CommunicationsLab/30MFFWebpage/)
 
 [Wireframe 1](https://github.com/basil-ahmed/CommunicationsLab/files/9591810/Prototype.pdf)
 
